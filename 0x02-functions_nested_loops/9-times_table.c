@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * times_table - Prints the 9 time table, starting with 0
+ * Return: empty output
+ */	
+
+
 void times_tables(void)
 {
 	int x, y, z, u, d;
